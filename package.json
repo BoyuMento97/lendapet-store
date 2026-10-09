@@ -1,0 +1,8 @@
+{
+  "name": "lendapet-store",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Catálogo independiente de piensos Lenda para perros, sin cobros activos",
+  "scripts": {"test": "node --test tests/catalog.test.cjs", "start": "node server.cjs"},
+  "license": "UNLICENSED"
+}
